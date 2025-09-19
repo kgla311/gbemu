@@ -1,11 +1,11 @@
-#Game Boy Emulator (C++ / SDL2)
+Game Boy Emulator (C++ / SDL2)
 
-#Work in Progress
+Work in Progress
 
-This is a Game Boy emulator written entirely in modern C++ with SDL2.
+This is a Game Boy emulator written entirely in modern C++ with SDL2
 It is a learning project focused on low-level system emulation and demonstrates strong understanding of CPU architecture, memory management, and timing.
 
-#Current Features
+Current Features
 
 CPU emulation: All documented Game Boy instructions implemented.
 
@@ -27,7 +27,7 @@ Currently halts on Blaarg’s timer tests – issue identified in timer implemen
 
 Fix in progress: adjusting timer increment/overflow cycle accuracy, problem.
 
-#What I Learned
+What I Learned
 
 Designing modular software architecture (CPU, MMU, PPU as separate subsystems).
 
