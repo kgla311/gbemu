@@ -23,7 +23,7 @@ Status
 
 Emulator runs most test ROMs successfully.
 
-Currently halts on Blaarg’s timer tests – issue identified in timer implementation.
+Currently halts on Blaarg’s timer tests – issue identified in timer implementation. All output saved in debug.txt file.
 
 Fix in progress: adjusting timer increment/overflow cycle accuracy, problem.
 
