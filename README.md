@@ -19,7 +19,7 @@ Graphics (PPU): Initial rendering pipeline with SDL2 output. Need a lot of work 
 
 RAII resource management: SDL2 wrapped in safe, exception-resistant classes.
 
-#Status
+Status
 
 Emulator runs most test ROMs successfully.
 
